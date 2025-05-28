@@ -14,7 +14,6 @@ def main():
     print(frankenstein_text)
     return frankenstein_text
 
-main()
 main_var = main()
 print(f"""============ BOOKBOT ============
 Analyzing book found at books/frankenstein.txt...
